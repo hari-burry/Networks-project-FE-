@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="299" viewBox="0 0 1440 299">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_274" data-name="Rectangle 274" width="1440" height="299" transform="translate(28 -18)" fill="#3735c0" stroke="#707070" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="happy" transform="translate(-28 18)">
+    <rect id="Rectangle_240" data-name="Rectangle 240" width="1440" height="298" transform="translate(28 -17)" fill="#3735c0"/>
+    <g id="Mask_Group_44" data-name="Mask Group 44" clip-path="url(#clip-path)">
+      <path id="Union_10" data-name="Union 10" d="M9356.639-898.766a184.64,184.64,0,0,1-184.4-175.263,184.641,184.641,0,0,1-184.405,175.263H8710.872c-101.973,0-184.639-82.664-184.639-184.639a184.637,184.637,0,0,1-184.639,184.639H8064.64A184.637,184.637,0,0,1,7880-1083.4v-276.957C7880-1462.334,7962.665-1545,8064.64-1545h276.955c101.975,0,184.639,82.667,184.639,184.639,0-101.972,82.666-184.639,184.639-184.639h276.957a184.642,184.642,0,0,1,184.405,175.263A184.642,184.642,0,0,1,9356.639-1545H9633.6c101.973,0,184.639,82.667,184.639,184.639V-1083.4c0,101.975-82.666,184.639-184.639,184.639Z" transform="translate(-8098.618 1474)" fill="#171580" opacity="0.3"/>
+    </g>
+  </g>
+</svg>
